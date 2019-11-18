@@ -1,1 +1,1 @@
-# Liribot
+# LiriBot
